@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 #clear
 read -p "How many characters do you want your new password be?" password_len
